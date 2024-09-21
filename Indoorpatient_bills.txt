@@ -1,0 +1,4 @@
+Total bill for patient with ID 252: 5673
+Total bill for patient with ID 147: 625
+Total bill for patient with ID 147: 625
+Total bill for patient with ID 125: 617

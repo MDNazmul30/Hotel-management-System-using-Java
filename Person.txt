@@ -1,0 +1,4 @@
+ id ......name..........address......gender.....age...........phonenumber.........room........degree.........spealist.. 
+1------John------123 Main St------Male   -------30------123-456-7890------101-------M.B.B.s-------Cardiology 
+2------Jane------456 Park Ave------Female-------35------456-789-0123------102-------M.b.b.s-------Pediatrics 
+3------Bob------789 Maple St------Male  -------40------789-012-3456------103-------M.B.B.S-------  Surgery   

@@ -1,0 +1,2 @@
+Patient ID: 159, Total Bill: 400Total bill for patient with ID 123: 125
+Total bill for patient with ID 52: 105

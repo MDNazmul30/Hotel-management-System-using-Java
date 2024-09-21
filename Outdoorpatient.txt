@@ -1,0 +1,8 @@
+258 hasan marol badda 25 0123654 fever 200 251 500		
+
+258 fahim Dhaka,bangladesh male 4 012365454 faver 12 25 58		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Visitingfee
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Visitingfee
+145     habib     Dhaka     male     41     01236547     faver     125     125      125		
+

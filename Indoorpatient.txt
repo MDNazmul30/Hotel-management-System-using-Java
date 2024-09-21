@@ -1,0 +1,47 @@
+150 abdulla dhaka,boshondhora male 20 01546236655 headache 200 100 50 20 200		
+
+250 abdulla debudwar,cumilla male 15 12345670 fever 12 25 11 123 123		
+
+258 abdulla debidwar,cumilla male 25 0123654478 fever 12 12 12 12 258		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+123hafizdhakamale12123456fever258126147258569		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+159habibghamale4513266dhfdg14266025842		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+123ljgjfgrttgrgr25258rtghy2525252525		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+52hggghjgmale15255efer252525255		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+157     habib     dhaka     male     35     1236547     faver     400     300     700     400     4111		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+566     habib     dhake     male     47     123654     faver     200     44     44     77     55		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+150     jamil     cumilla     male     58     0123685     afjfh     45     14     44     78     55		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+454     nazmul     cumilla     male     45     123654     faver     125     258     147     475     44		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+252     lkgjk     kfg     dfjkwei     45     dfgujg     reiog     145     4585     44     47     852		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+252     hasa     dhaka     male     45     01236547     jdkj     145     258     569     214     125		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+147     hasan     fkdsjfkl     fjk     12     013665     faver     125     125     125     125     125		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+125     fqhim     dhqka     male     14     1210365     fevar     123     123     123     125     123		
+
+ id ....name....address.....gender.....age.....phonenumber......diseadename.....labfee.....Medicinefee......Bedfee.....foodfee.....Visitingfee
+69     Gengi     Wali     Both     22     01769696969     zouno     0     69     -500     0     69		
+

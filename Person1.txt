@@ -1,0 +1,4 @@
+ id ....."     name     "........"   address   "........." Gender "......."Age"........"   phonenumber   "......."profetionname"
+1 -------Dr.jahangir kobir -------123 Main St  ------- Male  -------30 -------123-456-7890 -------    MD    
+2 -------      Jane        -------456 Park Ave -------Female -------35 -------456-789-0123 -------Pediatrics 
+3 -------      Bob         -------789 Maple St  ------- Male  -------40 -------789-012-3456 -------Surgery 

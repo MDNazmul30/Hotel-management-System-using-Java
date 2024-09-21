@@ -1,0 +1,9 @@
+newpro.Person
+newpro.Newpro
+newpro.Doctor
+newpro.Patient
+newpro.Indoorpatient
+newpro.Outdoorpatient
+newpro.Staff
+newpro.Hospital
+newpro.Medicineshop
